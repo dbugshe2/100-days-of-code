@@ -6,7 +6,10 @@
 
 **Thoughts:** It's very exciting I am now working under a deadline and I am more accountable for what I do.
 
-**link to works:** no links today
+**link to works:** 
+
+- [My Project Repo](https://github.com/dbugshe2/my-first-pwa)
+- [Codelab page](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 
 ### Day 2: July 17 2018
 
@@ -14,7 +17,9 @@
 
 **Thoughts:** I am fairly new to JavaScript and I think I need to have a firm grasp on certain features and concepts of the JavaScript. escpecially service workers,, promises, and caching.
 
-**link to works:** [Codelab page](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+**link to works:** 
+
+- [Codelab page](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 
 ### Day 3: July 18 2018
 
@@ -22,5 +27,7 @@
 
 **Thoughts:** I'm learning about scrum and I want to personally apply it my learning and working, to hopefully learn make as much as I can.
 
-**link to works:** [Udacity Course](https://classroom.udacity.com/courses/ud898)
+**link to works:** 
+
+- [Udacity Course](https://classroom.udacity.com/courses/ud898)
 
