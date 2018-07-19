@@ -31,3 +31,14 @@
 
 - [Udacity Course](https://classroom.udacity.com/courses/ud898)
 
+
+### Day 4: July 19 2018
+
+**Today's Progress:** today I learned more about JavaScript specifically the XMLHttpRequests and the newer Fetch API, along with things like Request objects and Header objects, and I learned how to use CouchDB with express through the nano library, I also finished two more exercises in the Udacity *JavaScript Promises* course
+
+**Thoughts:** I'm learning about scrum and I want to personally apply it my learning and working, to hopefully learn make as much as I can.
+
+**link to works:** 
+
+- [Udacity Course](https://classroom.udacity.com/courses/ud898)
+
