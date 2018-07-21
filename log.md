@@ -36,9 +36,36 @@
 
 **Today's Progress:** today I learned more about JavaScript specifically the XMLHttpRequests and the newer Fetch API, along with things like Request objects and Header objects, and I learned how to use CouchDB with express through the nano library, I also finished two more exercises in the Udacity *JavaScript Promises* course
 
-**Thoughts:** I'm learning about scrum and I want to personally apply it my learning and working, to hopefully learn make as much as I can.
+**Thoughts:** I would like to finish this tutorial by tommorow and return to my pwa track, but if it takes any longer it won't hurt, I'll take my time and get it right.
 
 **link to works:** 
 
 - [Udacity Course](https://classroom.udacity.com/courses/ud898)
+- [Great fetch API tutorial by David Walsh](https://davidwalsh.name/fetch)
+
+-----------------
+
+
+### Day 5: July 20 2018
+
+**Today's Progress:** today I spent some extra hours putting together simple demo, of a form submission app that save the from data in a couchDB database, I finished the form (using ejs) and I got the backend working with express and body-parser. I learned the basics of how routing works in express, and how to read form data from post requests using body parser
+
+**Thoughts:** I wasn't able to finish the page today but It'll be the first thing I start wit tomorrow.
+
+**link to works:** 
+
+- [Github Repo](https://github.com/dbugshe2/express-couchDB-playground)
+
+
+
+### Day 6: July 21 2018
+
+**Today's Progress:** today I finished the demo from yesterday, I learned how to use the uuid library to generate your own unique  ID fro a db record. and I wired my form app  to a couchDB database.
+
+**Thoughts:** I would like to finish the udacity promises tutorial by tommorow and return to my pwa track, but if it takes any longer it won't hurt, I'll take my time and get it right.
+
+**link to works:** 
+
+- [Github Repo](https://github.com/dbugshe2/express-couchDB-playground)
+
 
