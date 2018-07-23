@@ -69,3 +69,25 @@
 - [Github Repo](https://github.com/dbugshe2/express-couchDB-playground)
 
 
+### Day 7: July 22 2018
+
+**Today's Progress:** today I didn't really do anything today. it's a Sunday and I just decided not to.
+
+**Thoughts:** I think it's important to just take one of these every month, and I will.
+
+**link to works:** 
+
+- no work
+
+
+
+
+### Day 8: July 23 2018
+
+**Today's Progress:** 
+
+**Thoughts:** .
+
+**link to works:** 
+
+- no work
