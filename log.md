@@ -82,11 +82,22 @@
 
 
 
-### Day 8: July 23 2018
+### Inactive: July 23 2018
 
-**Today's Progress:** 
+**Today's Progress:** today was another slow day and I think I'm slacking off so I'll not add today to the count - I'll resume tommorow
 
 **Thoughts:** .
+
+**link to works:** 
+
+- no work
+
+
+### Day 8: July 24 2018
+
+**Today's Progress:** today I didn't really do anything today. it's a Sunday and I just decided not to.
+
+**Thoughts:** I think it's important to just take one of these every month, and I will.
 
 **link to works:** 
 
