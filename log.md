@@ -84,7 +84,7 @@
 
 ### Inactive: July 23 2018
 
-**Today's Progress:** today was another slow day and I think I'm slacking off so I'll not add today to the count - I'll resume tommorow
+**Today's Progress:** today was another slow day and I think I'm slacking off so I'll not add today to the count - I'll resume tomorrow
 
 **Thoughts:** .
 
@@ -95,9 +95,47 @@
 
 ### Day 8: July 24 2018
 
-**Today's Progress:** today I didn't really do anything today. it's a Sunday and I just decided not to.
+**Today's Progress:** today I didn't really do much coding either I spent most of the day setting up a wordpress site
+**Thoughts:** I'm a bit under the weather so I'm not really as productive
 
-**Thoughts:** I think it's important to just take one of these every month, and I will.
+**link to works:** 
+
+- no work
+
+
+### Day --: July 25 2018 (inactive)
+
+**Today's Progress:** I really just caught the flu I might be inactive for two days or so
+**Thoughts:** I'm a bit under the weather so I'm not really as productive
+
+**link to works:** 
+
+- no work
+
+
+### Day --: July 26 2018(inactive)
+
+**Today's Progress:** today I didn't really do much coding either I spent most of the day setting up a wordpress site
+**Thoughts:** I'm a bit under the weather so I'm not really as productive
+
+**link to works:** 
+
+- no work
+
+### Day --: July 27 2018(inactive)
+
+**Today's Progress:** I went on a road trip today to my school
+**Thoughts:** I was on the road the whole day long
+**link to works:** 
+
+- no work
+
+
+### Day 9: July 28 2018
+
+**Today's Progress:** 
+
+**Thoughts:** I'm a bit under the weather so I'm not really as productive
 
 **link to works:** 
 
